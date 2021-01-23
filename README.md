@@ -1,4 +1,4 @@
-# Fruitopia
+# Fruitopia 🍓
 
 https://filip-shkolik.github.io/Fruitopia/
 
